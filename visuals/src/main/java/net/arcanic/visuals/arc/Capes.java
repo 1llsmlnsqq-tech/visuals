@@ -197,3 +197,4 @@ public final class Capes extends Module {
 
     public static record Strip(Identifier id, int frame, int frames) {}
 }
+
